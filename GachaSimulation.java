@@ -4,7 +4,7 @@ class GachaSimulation {
         Scanner input = new Scanner(System.in);
         Scanner input2 = new Scanner(System.in);
         Scanner input3 = new Scanner(System.in);
-        int coin = 1500;
+        int coin = 150;
         String prizeList = "";
         
 
