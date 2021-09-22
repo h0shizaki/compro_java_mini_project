@@ -107,10 +107,6 @@ class GachaSimulation {
 
     }
 
-    public static void selectMode(){
-        
-    }
-
     public static void sayHello(){
         System.out.println();
         System.out.println("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
@@ -173,5 +169,4 @@ class GachaSimulation {
 
 
     
-
 }
