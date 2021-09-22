@@ -1,11 +1,15 @@
 # How to play
-Select mode  
-Enter G or g to play gacha  
-Enter E or e to exchange coin to item  
-Enter I or i to open your item list  
+**Select mode**  
+Enter G or g to play gacha 🎲  
+Enter E or e to exchange coin to item 🪙  
+Enter I or i to open your item list 👜  
 
 ## Gacha (G)
-Jackpot rate is 1/10 and prize is 20 coins
+🥇Jackpot rate is 1/10 and prize is 20 coins
+```Java
+int luckyNum = (int)(System.currentTimeMillis()%10); //jackpot number
+int userNum = (int)((System.currentTimeMillis()*Math.PI) %10) ; //user random number
+```
     
 How to gacha
 - Enter number of coin  
