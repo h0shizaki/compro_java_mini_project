@@ -1,3 +1,10 @@
+# Mini-project
+This program will do a gacha simulation. you will start at 150 coins which 1 coin can roll 1 gacha pull.
+  then you can exchange the coins to the item in the list.
+
+## Inspiration
+I always have a bad luck in a gacha game and I want to spread my emotion.  
+
 # How to play
 **Select mode**  
 Enter G or g to play gacha 🎲  
