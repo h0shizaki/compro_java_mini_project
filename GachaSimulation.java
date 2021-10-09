@@ -114,7 +114,7 @@ class GachaSimulation {
         System.out.println("||      Enter G to start Gacha using 1 coin per roll    ||");
         System.out.println("||      Enter E to open exchange menu                   ||");
         System.out.println("||      Enter I to show your item list                  ||");
-        System.out.println("||      Enter X to show exit program                    ||");
+        System.out.println("||      Enter X to exit program                         ||");
         System.out.println("||                                                      ||");
         System.out.println("||||||||||||||||||||||||||||||||||||||||||||||||||||||||||");
         System.out.println();
