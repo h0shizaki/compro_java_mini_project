@@ -34,4 +34,4 @@ There are 4 items which can exchange.
 Display your inventory.
 
 # Flowchart
-<a href="https://github.com/hoshizaki-iori/compro_java_mini_project/blob/main/flowchart.jpg"></a>
+<img src="https://github.com/hoshizaki-iori/compro_java_mini_project/blob/main/flowchart.jpg"></img>
