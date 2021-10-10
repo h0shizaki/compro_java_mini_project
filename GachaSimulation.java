@@ -18,7 +18,7 @@ class GachaSimulation {
         while(mode != 'x' && mode != 'X'){
             
             if(mode == 'G' || mode == 'g'){
-                //do show coins -> random -> give prize -> return
+                //show coins -> random -> give prize -> return
                 System.out.println("You have " + coin + " coins");
                 System.out.print("How many coin you will use :");
                 int useCoin = input2.nextInt();
@@ -37,7 +37,7 @@ class GachaSimulation {
 
             }
             else if(mode == 'E' || mode == 'e'){
-                //do show coin -> show item list -> select item -> delete coin -> return item
+                //show coin -> show item list -> select item -> delete coin -> add item to list
                 System.out.println("You have "+ coin+ " coins \n");
                 showPrizeList();
                 System.out.print("Enter number of item or enter 0 to cancel : ");
@@ -47,7 +47,7 @@ class GachaSimulation {
                     case 0 : {
                         System.out.println("Canceled");
                         break;}
-                    //do exchange step one delete coin two add item into list    
+                    //do exchange 1. delete coin 2.add item into list    
                     case 1 : {
                         System.out.println("*You got Instant noodle*");
                         if(checkCoin(coin,100)){
